@@ -1,0 +1,3 @@
+[submodule "crazyflie-link-cpp"]
+	path = crazyflie-link-cpp
+	url = git@github.com:petradata/crazyflie-link-cpp
